@@ -1,6 +1,6 @@
 # MyCard
 
-![preview](./.assets/preview.png)
+![preview](./.github/preview.png)
 
 >Trilha Explorer
 Projeto contruído no evento Next Level Week da Rocketseat
