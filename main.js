@@ -1,6 +1,6 @@
 const linksSocialMedia = {
     github: "rianRD0",
-    instagram: "rianguedes",
+    instagram: "riang01",
     twitter: "RianGuedes10",
     facebook: "rian.guedes.3",
     youtube: "UCMCVbwTAsFUpUyWL_6T7gmw"
